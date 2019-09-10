@@ -17,7 +17,7 @@
 .connect {
     width: 90%;
     margin: auto;
-    background-color: aquamarine;
+    background-color: lightgray;
     text-align: center;
     margin-top: 10px;
 }
@@ -25,7 +25,7 @@
 .disconnect {
     width: 90%;
     margin: auto;
-    background-color: indianred;
+    background-color: lightgray;
     text-align: center;
     margin-top: 10px;
 }
