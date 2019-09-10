@@ -1,0 +1,26 @@
+{
+  "name": "socket.io-example",
+  "version": "1.0.0",
+  "description": "socket.io-example",
+  "author": "AGUMON",
+  "license": "ISC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bynodejs/socket.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bynodejs/socket.io/issues"
+  },
+  "homepage": "https://github.com/bynodejs/socket.io#readme"
+}
